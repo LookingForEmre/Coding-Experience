@@ -1,5 +1,5 @@
 # Coding-Experience
-Examples for my own coding experience
+Here are examples of my coding experience:
 
 
 ### SQRT.py
